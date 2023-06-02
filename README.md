@@ -2,16 +2,22 @@
 Project Update( Weather Application)
 
 ##Section 1: Challenges
+
 #User Interface and Experience:
 Designing an intuitive and visually appealing user interface (UI) is crucial for weather applications. We add difficult choosing the appropriate user interface.
+
 #Solution:
 We decided to present weather data in a user-friendly manner, incorporating interactive elements, and providing relevant information without overwhelming the user.
+
 #Error Handling and Resilience:
 Weather data can be unpredictable, and API failures, data inconsistencies, or network issues may occur.
+
 #Solution:
 We Implemented proper error handling, graceful degradation, fallback mechanisms, and ensuring the application can handle unexpected scenarios.
+
 #Performance Optimization:
 The Weather applications need to provide real-time or near-real-time weather updates, and users expect a fast and responsive experience.
+
 #Solution:
 We optimised the application's performance, minimising API calls, caching data, and handling concurrent user requests.
 
@@ -42,10 +48,8 @@ We measure our progress with the number of completed task
 My team has this rating because out of 10 task we assigned this week we were able to acheive 8.
 Our project will be completed on the specified time, Our MVP is allowing our users to input their location and the app display the weather status of that place.
 
-#Authors
-Suliat
-Henry
-Emmanuel
+#Authors:
+Suliat||Henry||Emmanuel
 
 
 
